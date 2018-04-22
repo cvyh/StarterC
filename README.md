@@ -1,0 +1,2 @@
+# StarterC
+Something about C
