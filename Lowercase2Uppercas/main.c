@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Convert.h"
+#include "convert.h"
 int main() {
 	char lowercaseChar;
 	printf("Input a lowercase Character: ");

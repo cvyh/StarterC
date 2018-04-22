@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse-3-digit-Integer", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lowercase2Uppercas", "Lowercase2Uppercas\Lowercase2Uppercas.vcxproj", "{90ABE9D7-4AB0-4DE1-8539-38BD3D5145AB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Swap-Two-Integers-in-Array", "Swap-Two-Integers-in-Array\Swap-Two-Integers-in-Array.vcxproj", "{74E2CF7E-7FAD-4F6E-BE4D-07FAFF90CAC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{90ABE9D7-4AB0-4DE1-8539-38BD3D5145AB}.Release|x64.Build.0 = Release|x64
 		{90ABE9D7-4AB0-4DE1-8539-38BD3D5145AB}.Release|x86.ActiveCfg = Release|Win32
 		{90ABE9D7-4AB0-4DE1-8539-38BD3D5145AB}.Release|x86.Build.0 = Release|Win32
+		{74E2CF7E-7FAD-4F6E-BE4D-07FAFF90CAC7}.Debug|x64.ActiveCfg = Debug|x64
+		{74E2CF7E-7FAD-4F6E-BE4D-07FAFF90CAC7}.Debug|x64.Build.0 = Debug|x64
+		{74E2CF7E-7FAD-4F6E-BE4D-07FAFF90CAC7}.Debug|x86.ActiveCfg = Debug|Win32
+		{74E2CF7E-7FAD-4F6E-BE4D-07FAFF90CAC7}.Debug|x86.Build.0 = Debug|Win32
+		{74E2CF7E-7FAD-4F6E-BE4D-07FAFF90CAC7}.Release|x64.ActiveCfg = Release|x64
+		{74E2CF7E-7FAD-4F6E-BE4D-07FAFF90CAC7}.Release|x64.Build.0 = Release|x64
+		{74E2CF7E-7FAD-4F6E-BE4D-07FAFF90CAC7}.Release|x86.ActiveCfg = Release|Win32
+		{74E2CF7E-7FAD-4F6E-BE4D-07FAFF90CAC7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
