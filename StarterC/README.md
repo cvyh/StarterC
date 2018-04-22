@@ -1,4 +1,7 @@
 # StarterC
 This is the first Project.
 
-Just "Hello World". 
+Just a "Hello World" project. 
+
+Basic knowledges about variable(`const`, `int`, `float`),
+ IO(`printf()`, `scanf()`)
