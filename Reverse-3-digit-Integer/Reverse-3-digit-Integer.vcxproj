@@ -115,7 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Reverse.h" />
+    <ClInclude Include="reverse.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />

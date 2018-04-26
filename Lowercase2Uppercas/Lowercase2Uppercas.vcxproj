@@ -115,7 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Convert.h" />
+    <ClInclude Include="convert.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
